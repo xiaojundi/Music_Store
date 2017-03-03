@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "xiaojun <xiaojun@pornhub",
+    "gov>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "^0.4.2",
+    "angular-cookies": "^1.6.2",
+    "angular-validation": "^1.4.3",
+    "angular-animate": "^1.6.2",
+    "jquery": "^3.1.1",
+    "bootstrap": "3.0",
+    "angulargrid": "^0.6.5"
+  }
+}

@@ -1,0 +1,68 @@
+<div>
+<div class="dynamic-grid" angular-grid="list" ag-grid-width="300" ag-gutter-size="20"  grid-id="gallery" ag-refresh-on-img-load="false">
+  <div class="grid" ng-repeat="item in list track by item.id | limitTo:limit">
+
+	  	<!-- <p class="title" ng-bind="item.id"></p> -->
+	    <!-- <p class="title" ng-bind="item.createdAt"></p> -->
+		<!-- <p class="title" ng-bind="item.class"></p> -->
+		<!-- <p class="title" ng-bind="item.username"></p> -->
+		<!-- <p class="title" ng-bind="item.fullName"></p> -->
+		<!-- <p class="title" ng-bind="item.avatarPath"></p> -->
+		<!-- <p class="title" ng-bind="item.featured"></p> -->
+		<!-- <p class="title" ng-bind="item.statistics"></p> -->
+		<!-- <div class="title" ng-bind="item.song"></div> -->
+		<div class="artist">
+			<div class="title" ng-bind="item.song.title"></div>
+			<a href="{{item.song.iTunesLink}}"><img class="grid-img"  src="https://lsb-cdn1.wurrly.co/images/x200/{{item.song.imagePath}}" alt=""></a>
+			<div class="title" ng-bind="item.song.artist.name"></div>
+			<div class="title"><a href="{{item.song.iTunesLink}}">iTunesLink</a></div>
+			<div class="title" ng-bind="item.song.createdAt | date: 'medium'"></div>
+		</div>
+		
+		<div class="customer">
+			<video ng-click="playVideo($event)" class="user detailB" >
+	  			<source src="https://lsb-cdn1.wurrly.co/{{item.assets.video}}" type="video/mp4">
+	  			<source src="https://lsb-cdn1.wurrly.co/wurrlies/39/lr/4O/4d/kEfwkVML8D_video.ogg" type="video/ogg">
+					Your browser does not support the video tag.
+			</video>
+				<div class="detailA">
+				<div class="detailUp tetailC" item.statistics>
+				<div class="sbar"><a href="#">comments:</a><p class="badge" ng-bind="item.statistics.comments"></p></div>
+				<div class="sbar"><a href="#">plays:</a><div class="badge" ng-bind="item.statistics.plays"></div></div>
+				<div class="sbar"><a href="#">shares:</a><div class="badge" ng-bind="item.statistics.shares"></div></div>
+				<div class="sbar"><a href="#">likes:</a><div class="badge" ng-bind="item.statistics.likes"></div></div>
+				</div detailDown>
+				<p class="detailDown" ng-bind="'Uploaded on: '+item.creationDate"></p>
+			</div>
+		</div>
+
+
+		<!-- <p class="title" ng-bind="item.available"></p> -->
+		<!-- <p class="title" ng-bind="item.video"></p> -->
+		<!-- <p class="title" ng-bind="item.duration"></p> -->
+<!-- 		<p class="title" ng-bind="item.wurrlyCount"></p>
+		<p class="title" ng-bind="item.genres"></p>
+		<p class="title" ng-bind="item.products"></p>
+		<p class="title" ng-bind="item.iTunesLink"></p>
+		<p class="title" ng-bind="item.spotifyId"></p>
+		<p class="title" ng-bind="item.resourcePath"></p> -->
+		<!-- <p class="title" ng-bind="item.imagePath"></p> -->
+<!-- 		<p class="title" ng-bind="item.featured"></p>
+		<p class="title" ng-bind="item.locked"></p>
+		<p class="title" ng-bind="item.video"></p>
+		<p class="title" ng-bind="item.collaboration"></p>
+		<p class="title" ng-bind="item.score"></p>
+		<p class="title" ng-bind="item.message"></p>
+		<p class="title" ng-bind="item.collaborators"></p> -->
+		<!-- <p class="title" ng-bind="item.resourcePath"></p> -->
+		
+		<!-- <p class="title" ng-bind="item.dimensions"></p> -->
+		<!-- <p class="title" ng-bind="item.assets.video"></p> -->
+<!--         <video id="videoPlay1" ng-click="playVideo($event)" width="100" height="200">
+  			<source src="https://lsb-cdn1.wurrly.co/{{item.assets.video}}" type="video/mp4">
+  			<source src="https://lsb-cdn1.wurrly.co/wurrlies/39/lr/4O/4d/kEfwkVML8D_video.ogg" type="video/ogg">
+				Your browser does not support the video tag.
+		</video> -->
+    </div> 
+  </div>     
+</div>

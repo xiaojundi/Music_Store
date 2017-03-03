@@ -1,0 +1,3123 @@
+{
+    "items": [{
+        "id": 97161,
+        "createdAt": 1486479363000,
+        "class": "wurrly",
+        "user": {
+            "id": 603950,
+            "class": "user",
+            "username": "lili-rodriguez",
+            "fullName": "Lili Rodriguez",
+            "avatarPath": "KB/1o/PU/x7/BaqfGb6QKR.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 3,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3747,
+            "createdAt": 1472863552000,
+            "title": "Stitches",
+            "artist": {
+                "id": 1604,
+                "name": "Shawn Mendes"
+            },
+            "imagePath": "41/c6/70/dd/3c76b77060.jpg",
+            "available": true,
+            "video": false,
+            "duration": 85170,
+            "hasChords": false,
+            "wurrlyCount": 2658,
+            "genres": ["Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1058719785?mt=1&app=music",
+            "spotifyId": "5t4B1kAlCD13YY9poph0Mg",
+            "resourcePath": "songs/82/ab/80/ec/1219bcb457"
+        },
+        "imagePath": "39/lr/4O/4d/kEfwkVML8D.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "watch til end",
+        "collaborators": [],
+        "resourcePath": "wurrlies/39/lr/4O/4d/kEfwkVML8D",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T14:56:03Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/39/lr/4O/4d/kEfwkVML8D_master.m4a",
+            "video": "wurrlies/39/lr/4O/4d/kEfwkVML8D_video.mp4",
+            "vocal": "wurrlies/39/lr/4O/4d/kEfwkVML8D_vocal.m4a"
+        }
+    }, {
+        "id": 97159,
+        "createdAt": 1486478926000,
+        "class": "wurrly",
+        "user": {
+            "id": 603970,
+            "class": "user",
+            "username": "hayley-andrews",
+            "fullName": "Hayley Andrews",
+            "avatarPath": "Dk/zX/vB/MA/q7ujkRLyLg.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 1
+            }
+        },
+        "song": {
+            "id": 3823,
+            "createdAt": 1474131287000,
+            "title": "Complicated",
+            "artist": {
+                "id": 1659,
+                "name": "Avril Lavigne"
+            },
+            "imagePath": "b9/63/7f/ca/d65ff99b39.jpg",
+            "available": true,
+            "video": false,
+            "duration": 84172,
+            "hasChords": false,
+            "wurrlyCount": 1240,
+            "genres": ["Pop", "Rock", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id315025823?mt=1&app=music",
+            "spotifyId": "5xEM5hIgJ1jjgcEBfpkt2F",
+            "resourcePath": "songs/63/55/34/61/fc91f01ecc"
+        },
+        "imagePath": "gV/ov/da/YZ/6auvrO0QrD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/gV/ov/da/YZ/6auvrO0QrD",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T14:48:46Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/gV/ov/da/YZ/6auvrO0QrD_master.m4a",
+            "video": "wurrlies/gV/ov/da/YZ/6auvrO0QrD_video.mp4",
+            "vocal": "wurrlies/gV/ov/da/YZ/6auvrO0QrD_vocal.m4a"
+        }
+    }, {
+        "id": 97158,
+        "createdAt": 1486478899000,
+        "class": "wurrly",
+        "user": {
+            "id": 603950,
+            "class": "user",
+            "username": "lili-rodriguez",
+            "fullName": "Lili Rodriguez",
+            "avatarPath": "KB/1o/PU/x7/BaqfGb6QKR.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 3,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3858,
+            "createdAt": 1474662340000,
+            "title": "All Of Me",
+            "artist": {
+                "id": 1677,
+                "name": "John Legend"
+            },
+            "imagePath": "f1/c9/97/78/851fd4456f.jpg",
+            "available": true,
+            "video": false,
+            "duration": 99009,
+            "hasChords": false,
+            "wurrlyCount": 4939,
+            "genres": ["Pop", "Love Songs", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id679297849?mt=1&app=music",
+            "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
+            "resourcePath": "songs/c1/b4/dd/81/16e98d8ebd"
+        },
+        "imagePath": "39/lr/4O/xM/rqfwdapxKD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "going to school",
+        "collaborators": [],
+        "resourcePath": "wurrlies/39/lr/4O/xM/rqfwdapxKD",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T14:48:19Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/39/lr/4O/xM/rqfwdapxKD_master.m4a",
+            "video": "wurrlies/39/lr/4O/xM/rqfwdapxKD_video.mp4",
+            "vocal": "wurrlies/39/lr/4O/xM/rqfwdapxKD_vocal.m4a"
+        }
+    }, {
+        "id": 97157,
+        "createdAt": 1486478494000,
+        "class": "wurrly",
+        "user": {
+            "id": 604058,
+            "class": "user",
+            "username": "john-brown-1",
+            "fullName": "John Brown",
+            "avatarPath": "n6/N0/X4/86/b7feZEKern.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 1,
+                "wurrlies": 2
+            }
+        },
+        "song": {
+            "id": 3985,
+            "createdAt": 1481666816000,
+            "title": "Do You Want To Build A Snowman",
+            "artist": {
+                "id": 1774,
+                "name": "Made Famous By Frozen"
+            },
+            "imagePath": "4c/e7/7d/b2/29b1a24121.jpg",
+            "available": true,
+            "video": false,
+            "duration": 94064,
+            "hasChords": false,
+            "wurrlyCount": 567,
+            "genres": ["Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id728880398?mt=1&app=music",
+            "spotifyId": "2yi7HZrBOC4bMUSTcs4VK6",
+            "resourcePath": "songs/b2/bd/c1/8c/198b6adb3a"
+        },
+        "imagePath": "n6/N0/Xp/JQ/98tlrlQlOn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/n6/N0/Xp/JQ/98tlrlQlOn",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 2,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T14:41:34Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/n6/N0/Xp/JQ/98tlrlQlOn_master.m4a",
+            "video": "wurrlies/n6/N0/Xp/JQ/98tlrlQlOn_video.mp4",
+            "vocal": "wurrlies/n6/N0/Xp/JQ/98tlrlQlOn_vocal.m4a"
+        }
+    }, {
+        "id": 97156,
+        "createdAt": 1486476737000,
+        "class": "wurrly",
+        "user": {
+            "id": 592347,
+            "class": "user",
+            "username": "tuckerdux",
+            "fullName": "Tanya Duxbury Metcalfe",
+            "avatarPath": "24/aV/Jt/OX/GRrLSbqXoq.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 9,
+                "following": 11,
+                "likes": 13,
+                "wurrlies": 11
+            }
+        },
+        "song": {
+            "id": 4007,
+            "createdAt": 1484262927000,
+            "title": "White Wedding",
+            "artist": {
+                "id": 1794,
+                "name": "Made Famous By Billy Idol"
+            },
+            "imagePath": "W4/lq/lv/Bk/vtjp1A8vTK.png",
+            "available": true,
+            "video": true,
+            "duration": 49853,
+            "hasChords": false,
+            "wurrlyCount": 40,
+            "genres": ["Lip Sync Battles", "Featured", "Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id724348582?mt=1&app=music",
+            "resourcePath": "songs/72/87/e1/48/1c2fb0d4dc"
+        },
+        "imagePath": "Dd/RM/dZ/5V/pQTeQvOONn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "💪🏽💍❄️❄️",
+        "collaborators": [],
+        "resourcePath": "wurrlies/Dd/RM/dZ/5V/pQTeQvOONn",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 3,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T14:12:17Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/Dd/RM/dZ/5V/pQTeQvOONn_master.m4a",
+            "video": "wurrlies/Dd/RM/dZ/5V/pQTeQvOONn_video.mp4",
+            "vocal": "wurrlies/Dd/RM/dZ/5V/pQTeQvOONn_vocal.m4a"
+        }
+    }, {
+        "id": 97155,
+        "createdAt": 1486475969000,
+        "class": "wurrly",
+        "user": {
+            "id": 577238,
+            "class": "user",
+            "username": "blueberry1108",
+            "fullName": "blueberry1108",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 2,
+                "likes": 26,
+                "wurrlies": 50
+            }
+        },
+        "song": {
+            "id": 3838,
+            "createdAt": 1474326961000,
+            "title": "Waiting For Tonight",
+            "artist": {
+                "id": 1516,
+                "name": "Jennifer Lopez"
+            },
+            "imagePath": "21/b3/a6/5c/1668a16497.png",
+            "available": true,
+            "video": true,
+            "duration": 92090,
+            "hasChords": false,
+            "wurrlyCount": 188,
+            "genres": ["Lip Sync Battles", "Pop", "Hip Hop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id265144699?mt=1&app=music",
+            "resourcePath": "songs/4e/e4/56/9d/217f61ed27"
+        },
+        "imagePath": "gp/5N/ol/vG/bECk09YLJD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "waiting for votes...😇",
+        "collaborators": [],
+        "resourcePath": "wurrlies/gp/5N/ol/vG/bECk09YLJD",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T13:59:29Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/gp/5N/ol/vG/bECk09YLJD_master.m4a",
+            "video": "wurrlies/gp/5N/ol/vG/bECk09YLJD_video.mp4",
+            "vocal": "wurrlies/gp/5N/ol/vG/bECk09YLJD_vocal.m4a"
+        }
+    }, {
+        "id": 97154,
+        "createdAt": 1486475259000,
+        "class": "wurrly",
+        "user": {
+            "id": 511982,
+            "class": "user",
+            "username": "leon-lang",
+            "fullName": "Leon Lang",
+            "avatarPath": "ff/55/80/fd/afa9da5c7d.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 6
+            }
+        },
+        "song": {
+            "id": 3912,
+            "createdAt": 1476995483000,
+            "title": "Just The Way You Are",
+            "artist": {
+                "id": 1714,
+                "name": "Billy Joel"
+            },
+            "imagePath": "11/c8/de/5d/b02f98bc73.jpg",
+            "available": true,
+            "video": false,
+            "duration": 87910,
+            "hasChords": false,
+            "wurrlyCount": 79,
+            "genres": ["Rock", "Classics"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id262822296?mt=1&app=music",
+            "resourcePath": "songs/17/b6/8f/7b/861caabb7b"
+        },
+        "imagePath": "3w/eo/LJ/pA/0LHZAx8WNg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "I really felt this one",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3w/eo/LJ/pA/0LHZAx8WNg",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T13:47:39Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3w/eo/LJ/pA/0LHZAx8WNg_master.m4a",
+            "video": "wurrlies/3w/eo/LJ/pA/0LHZAx8WNg_video.mp4",
+            "vocal": "wurrlies/3w/eo/LJ/pA/0LHZAx8WNg_vocal.m4a"
+        }
+    }, {
+        "id": 97153,
+        "createdAt": 1486473930000,
+        "class": "wurrly",
+        "user": {
+            "id": 507125,
+            "class": "user",
+            "username": "redmoon23",
+            "fullName": "Dragonking33",
+            "avatarPath": "4b/cb/74/e8/e045143a63.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 121,
+                "following": 624,
+                "likes": 1042,
+                "wurrlies": 609
+            }
+        },
+        "song": {
+            "id": 3688,
+            "createdAt": 1471438934000,
+            "title": "Harder To Breathe",
+            "artist": {
+                "id": 1522,
+                "name": "Maroon 5"
+            },
+            "imagePath": "31/d2/73/e1/f04ba2da36.jpg",
+            "available": true,
+            "video": false,
+            "duration": 63970,
+            "hasChords": false,
+            "wurrlyCount": 160,
+            "genres": ["Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id902147879?mt=1&app=music",
+            "resourcePath": "songs/ae/85/18/c2/516da49854"
+        },
+        "imagePath": "gA/AO/dN/v1/dRHjOAkmbg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/gA/AO/dN/v1/dRHjOAkmbg",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T13:25:30Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/gA/AO/dN/v1/dRHjOAkmbg_master.m4a",
+            "video": "wurrlies/gA/AO/dN/v1/dRHjOAkmbg_video.mp4",
+            "vocal": "wurrlies/gA/AO/dN/v1/dRHjOAkmbg_vocal.m4a"
+        }
+    }, {
+        "id": 97152,
+        "createdAt": 1486473646000,
+        "class": "wurrly",
+        "user": {
+            "id": 604048,
+            "class": "user",
+            "username": "lindseylong",
+            "fullName": "lindseylong",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 1,
+                "wurrlies": 2
+            }
+        },
+        "song": {
+            "id": 3727,
+            "createdAt": 1472003233000,
+            "title": "Cheerleader",
+            "artist": {
+                "id": 1591,
+                "name": "Omi"
+            },
+            "imagePath": "a9/bc/e2/44/3766a83fa8.png",
+            "available": true,
+            "video": true,
+            "duration": 66316,
+            "hasChords": false,
+            "wurrlyCount": 3585,
+            "genres": ["Lip Sync Battles", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1033974566?mt=1&app=music",
+            "spotifyId": "1u2hPlWD5rlCzDa0X6zHaf",
+            "resourcePath": "songs/42/2b/67/fc/5a7ebf4515"
+        },
+        "imagePath": "gV/ov/dX/bB/M7fvLlQqvD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/gV/ov/dX/bB/M7fvLlQqvD",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T13:20:46Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/gV/ov/dX/bB/M7fvLlQqvD_master.m4a",
+            "video": "wurrlies/gV/ov/dX/bB/M7fvLlQqvD_video.mp4",
+            "vocal": "wurrlies/gV/ov/dX/bB/M7fvLlQqvD_vocal.m4a"
+        }
+    }, {
+        "id": 97151,
+        "createdAt": 1486473429000,
+        "class": "wurrly",
+        "user": {
+            "id": 507125,
+            "class": "user",
+            "username": "redmoon23",
+            "fullName": "Dragonking33",
+            "avatarPath": "4b/cb/74/e8/e045143a63.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 121,
+                "following": 624,
+                "likes": 1042,
+                "wurrlies": 609
+            }
+        },
+        "song": {
+            "id": 3898,
+            "createdAt": 1476319799000,
+            "title": "Ballroom Blitz",
+            "artist": {
+                "id": 1706,
+                "name": "The Sweet"
+            },
+            "imagePath": "2d/a2/a9/6e/55916f784e.jpg",
+            "available": true,
+            "video": true,
+            "duration": 100844,
+            "hasChords": false,
+            "wurrlyCount": 285,
+            "genres": ["Lip Sync Battles", "Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id724016802?mt=1&app=music",
+            "resourcePath": "songs/72/2a/e3/6d/9039b7153c"
+        },
+        "imagePath": "g4/0V/wO/lZ/Y6c0dRqz4g.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/g4/0V/wO/lZ/Y6c0dRqz4g",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T13:17:09Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/g4/0V/wO/lZ/Y6c0dRqz4g_master.m4a",
+            "video": "wurrlies/g4/0V/wO/lZ/Y6c0dRqz4g_video.mp4",
+            "vocal": "wurrlies/g4/0V/wO/lZ/Y6c0dRqz4g_vocal.m4a"
+        }
+    }, {
+        "id": 97148,
+        "createdAt": 1486470757000,
+        "class": "wurrly",
+        "user": {
+            "id": 585889,
+            "class": "user",
+            "username": "sadiebug4626",
+            "avatarPath": "ac/75/d2/5f/90eabcee5a.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 5,
+                "wurrlies": 6
+            }
+        },
+        "song": {
+            "id": 3747,
+            "createdAt": 1472863552000,
+            "title": "Stitches",
+            "artist": {
+                "id": 1604,
+                "name": "Shawn Mendes"
+            },
+            "imagePath": "41/c6/70/dd/3c76b77060.jpg",
+            "available": true,
+            "video": false,
+            "duration": 85170,
+            "hasChords": false,
+            "wurrlyCount": 2658,
+            "genres": ["Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1058719785?mt=1&app=music",
+            "spotifyId": "5t4B1kAlCD13YY9poph0Mg",
+            "resourcePath": "songs/82/ab/80/ec/1219bcb457"
+        },
+        "imagePath": "n5/6K/za/br/VqU8Z8pKPg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/n5/6K/za/br/VqU8Z8pKPg",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T12:32:37Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/n5/6K/za/br/VqU8Z8pKPg_master.m4a",
+            "video": "wurrlies/n5/6K/za/br/VqU8Z8pKPg_video.mp4",
+            "vocal": "wurrlies/n5/6K/za/br/VqU8Z8pKPg_vocal.m4a"
+        }
+    }, {
+        "id": 97147,
+        "createdAt": 1486469739000,
+        "class": "wurrly",
+        "user": {
+            "id": 507125,
+            "class": "user",
+            "username": "redmoon23",
+            "fullName": "Dragonking33",
+            "avatarPath": "4b/cb/74/e8/e045143a63.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 121,
+                "following": 624,
+                "likes": 1042,
+                "wurrlies": 609
+            }
+        },
+        "song": {
+            "id": 3727,
+            "createdAt": 1472003233000,
+            "title": "Cheerleader",
+            "artist": {
+                "id": 1591,
+                "name": "Omi"
+            },
+            "imagePath": "a9/bc/e2/44/3766a83fa8.png",
+            "available": true,
+            "video": true,
+            "duration": 66316,
+            "hasChords": false,
+            "wurrlyCount": 3585,
+            "genres": ["Lip Sync Battles", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1033974566?mt=1&app=music",
+            "spotifyId": "1u2hPlWD5rlCzDa0X6zHaf",
+            "resourcePath": "songs/42/2b/67/fc/5a7ebf4515"
+        },
+        "imagePath": "nm/yK/q7/Xp/XlI48o42kn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nm/yK/q7/Xp/XlI48o42kn",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T12:15:39Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nm/yK/q7/Xp/XlI48o42kn_master.m4a",
+            "video": "wurrlies/nm/yK/q7/Xp/XlI48o42kn_video.mp4",
+            "vocal": "wurrlies/nm/yK/q7/Xp/XlI48o42kn_vocal.m4a"
+        }
+    }, {
+        "id": 97146,
+        "createdAt": 1486466035000,
+        "class": "wurrly",
+        "user": {
+            "id": 600941,
+            "class": "user",
+            "username": "vickie-woodward",
+            "fullName": "Vickie Woodward",
+            "avatarPath": "Db/XL/xR/Z6/m9sp4VBBxn.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 7,
+                "following": 24,
+                "likes": 35,
+                "wurrlies": 9
+            }
+        },
+        "song": {
+            "id": 3654,
+            "createdAt": 1470971525000,
+            "title": "What Do You Mean",
+            "artist": {
+                "id": 1528,
+                "name": "Justin Bieber"
+            },
+            "imagePath": "16/bc/97/98/5ebeb4b263.jpg",
+            "available": true,
+            "video": false,
+            "duration": 0,
+            "hasChords": false,
+            "wurrlyCount": 1769,
+            "genres": ["Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1049603176?mt=1&app=music",
+            "spotifyId": "4B0JvthVoAAuygILe3n4Bs",
+            "resourcePath": "songs/79/f0/fd/47/b548327a1c"
+        },
+        "imagePath": "b3/JN/Wd/yR/AVBCX70kR3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "5:05 in the morrning and under a tornado watch #LSBSpotify",
+        "collaborators": [],
+        "resourcePath": "wurrlies/b3/JN/Wd/yR/AVBCX70kR3",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 4,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T11:13:55Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/b3/JN/Wd/yR/AVBCX70kR3_master.m4a",
+            "video": "wurrlies/b3/JN/Wd/yR/AVBCX70kR3_video.mp4",
+            "vocal": "wurrlies/b3/JN/Wd/yR/AVBCX70kR3_vocal.m4a"
+        }
+    }, {
+        "id": 97141,
+        "createdAt": 1486457482000,
+        "class": "wurrly",
+        "user": {
+            "id": 603664,
+            "class": "user",
+            "username": "lindsea-jo-juanaperez-jacqui",
+            "fullName": "Lindsea Jo JuanaPerez Jacqui",
+            "avatarPath": "g4/0V/64/4M/jZTvXA8NJg.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3705,
+            "createdAt": 1471507941000,
+            "title": "Country Grammar (Hot...)",
+            "artist": {
+                "id": 1510,
+                "name": "Nelly"
+            },
+            "imagePath": "f4/80/fb/2d/8b4f39b55a.jpg",
+            "available": true,
+            "video": false,
+            "duration": 0,
+            "hasChords": false,
+            "wurrlyCount": 414,
+            "genres": ["Hip Hop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id557567?mt=1&app=music",
+            "resourcePath": "songs/1e/55/15/5c/f7cfda1c27"
+        },
+        "imagePath": "ne/pG/dv/11/j1FGKrlkN3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/ne/pG/dv/11/j1FGKrlkN3",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T08:51:22Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/ne/pG/dv/11/j1FGKrlkN3_master.m4a",
+            "video": "wurrlies/ne/pG/dv/11/j1FGKrlkN3_video.mp4",
+            "vocal": "wurrlies/ne/pG/dv/11/j1FGKrlkN3_vocal.m4a"
+        }
+    }, {
+        "id": 97140,
+        "createdAt": 1486456378000,
+        "class": "wurrly",
+        "user": {
+            "id": 603664,
+            "class": "user",
+            "username": "lindsea-jo-juanaperez-jacqui",
+            "fullName": "Lindsea Jo JuanaPerez Jacqui",
+            "avatarPath": "g4/0V/64/4M/jZTvXA8NJg.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3678,
+            "createdAt": 1471342480000,
+            "title": "Kryptonite",
+            "artist": {
+                "id": 1550,
+                "name": "3 Doors Down"
+            },
+            "imagePath": "e5/8d/c7/d6/04f87e8971.jpg",
+            "available": true,
+            "video": false,
+            "duration": 0,
+            "hasChords": false,
+            "wurrlyCount": 556,
+            "genres": ["Rock", "Alternative"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id101602?mt=1&app=music",
+            "resourcePath": "songs/64/4a/c8/ef/1d82f17fec"
+        },
+        "imagePath": "nW/4l/dr/YB/dNUWyWpzqg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nW/4l/dr/YB/dNUWyWpzqg",
+        "statistics": {
+            "comments": 1,
+            "likes": 1,
+            "plays": 6,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T08:32:58Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nW/4l/dr/YB/dNUWyWpzqg_master.m4a",
+            "video": "wurrlies/nW/4l/dr/YB/dNUWyWpzqg_video.mp4",
+            "vocal": "wurrlies/nW/4l/dr/YB/dNUWyWpzqg_vocal.m4a"
+        }
+    }, {
+        "id": 97135,
+        "createdAt": 1486454616000,
+        "class": "wurrly",
+        "user": {
+            "id": 603664,
+            "class": "user",
+            "username": "lindsea-jo-juanaperez-jacqui",
+            "fullName": "Lindsea Jo JuanaPerez Jacqui",
+            "avatarPath": "g4/0V/64/4M/jZTvXA8NJg.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3663,
+            "createdAt": 1471342448000,
+            "title": "Right Thurr",
+            "artist": {
+                "id": 1538,
+                "name": "Chingy"
+            },
+            "imagePath": "52/a2/f9/17/a4e9fecaec.jpg",
+            "available": true,
+            "video": false,
+            "duration": 0,
+            "hasChords": false,
+            "wurrlyCount": 186,
+            "genres": ["Hip Hop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id715508152?mt=1&app=music",
+            "resourcePath": "songs/98/7a/b7/47/1c4b9a96b3"
+        },
+        "imagePath": "nR/N0/dy/Xy/QESRwN9Q5n.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nR/N0/dy/Xy/QESRwN9Q5n",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 7,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T08:03:36Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nR/N0/dy/Xy/QESRwN9Q5n_master.m4a",
+            "video": "wurrlies/nR/N0/dy/Xy/QESRwN9Q5n_video.mp4",
+            "vocal": "wurrlies/nR/N0/dy/Xy/QESRwN9Q5n_vocal.m4a"
+        }
+    }, {
+        "id": 97133,
+        "createdAt": 1486454480000,
+        "class": "wurrly",
+        "user": {
+            "id": 582508,
+            "class": "user",
+            "username": "manda-de-rooy",
+            "fullName": "Manda De Rooy",
+            "avatarPath": "6a/a7/69/f8/d35d3d2b76.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 2,
+                "following": 1,
+                "likes": 3,
+                "wurrlies": 5
+            }
+        },
+        "song": {
+            "id": 4008,
+            "createdAt": 1484262928000,
+            "title": "You Oughta Know",
+            "artist": {
+                "id": 1795,
+                "name": "Made Famous By Alanis Morissette"
+            },
+            "imagePath": "94/11/28/3d/bc1aa54626.jpg",
+            "available": true,
+            "video": false,
+            "duration": 101122,
+            "hasChords": false,
+            "wurrlyCount": 52,
+            "genres": ["Featured", "Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1051426177?mt=1&app=music",
+            "resourcePath": "songs/19/ed/82/9e/1d89043784"
+        },
+        "imagePath": "nW/4l/dr/aM/96tdzpxoog.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nW/4l/dr/aM/96tdzpxoog",
+        "statistics": {
+            "comments": 1,
+            "likes": 1,
+            "plays": 5,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T08:01:20Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nW/4l/dr/aM/96tdzpxoog_master.m4a",
+            "video": "wurrlies/nW/4l/dr/aM/96tdzpxoog_video.mp4",
+            "vocal": "wurrlies/nW/4l/dr/aM/96tdzpxoog_vocal.m4a"
+        }
+    }, {
+        "id": 97132,
+        "createdAt": 1486454344000,
+        "class": "wurrly",
+        "user": {
+            "id": 577024,
+            "class": "user",
+            "username": "lisa-collins",
+            "fullName": "Lisa Collins",
+            "avatarPath": "eb/14/f9/d1/873470e7cf.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 33,
+                "following": 67,
+                "likes": 563,
+                "wurrlies": 318
+            }
+        },
+        "song": {
+            "id": 3688,
+            "createdAt": 1471438934000,
+            "title": "Harder To Breathe",
+            "artist": {
+                "id": 1522,
+                "name": "Maroon 5"
+            },
+            "imagePath": "31/d2/73/e1/f04ba2da36.jpg",
+            "available": true,
+            "video": false,
+            "duration": 63970,
+            "hasChords": false,
+            "wurrlyCount": 160,
+            "genres": ["Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id902147879?mt=1&app=music",
+            "resourcePath": "songs/ae/85/18/c2/516da49854"
+        },
+        "imagePath": "3z/qJ/Gv/jj/MNSl0Zoj7D.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3z/qJ/Gv/jj/MNSl0Zoj7D",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T07:59:04Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3z/qJ/Gv/jj/MNSl0Zoj7D_master.m4a",
+            "video": "wurrlies/3z/qJ/Gv/jj/MNSl0Zoj7D_video.mp4",
+            "vocal": "wurrlies/3z/qJ/Gv/jj/MNSl0Zoj7D_vocal.m4a"
+        }
+    }, {
+        "id": 97131,
+        "createdAt": 1486453963000,
+        "class": "wurrly",
+        "user": {
+            "id": 604297,
+            "class": "user",
+            "username": "jaycie-standing",
+            "fullName": "Jaycie Standing",
+            "avatarPath": "gy/JO/Md/bv/2EHAP7MX8D.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 1
+            }
+        },
+        "song": {
+            "id": 3826,
+            "createdAt": 1474131291000,
+            "title": "Sk8erBoi",
+            "artist": {
+                "id": 1659,
+                "name": "Avril Lavigne"
+            },
+            "imagePath": "b9/63/7f/ca/d65ff99b39.jpg",
+            "available": true,
+            "video": false,
+            "duration": 102817,
+            "hasChords": false,
+            "wurrlyCount": 678,
+            "genres": ["Pop", "Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id315025826?mt=1&app=music",
+            "resourcePath": "songs/ff/56/48/aa/0d470eac47"
+        },
+        "imagePath": "ga/vy/dE/el/PaijWZqmGD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "practice",
+        "collaborators": [],
+        "resourcePath": "wurrlies/ga/vy/dE/el/PaijWZqmGD",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 3,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T07:52:43Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/ga/vy/dE/el/PaijWZqmGD_master.m4a",
+            "video": "wurrlies/ga/vy/dE/el/PaijWZqmGD_video.mp4",
+            "vocal": "wurrlies/ga/vy/dE/el/PaijWZqmGD_vocal.m4a"
+        }
+    }, {
+        "id": 97125,
+        "createdAt": 1486452076000,
+        "class": "wurrly",
+        "user": {
+            "id": 586783,
+            "class": "user",
+            "username": "stephchris061810",
+            "fullName": "stephchris061810",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3659,
+            "createdAt": 1470974597000,
+            "title": "A Whole New World",
+            "artist": {
+                "id": 1771,
+                "name": "Made Famous By Aladdin"
+            },
+            "imagePath": "36/e4/ca/29/aba69557e3.jpg",
+            "available": true,
+            "video": false,
+            "duration": 73676,
+            "hasChords": false,
+            "wurrlyCount": 1980,
+            "genres": ["Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id156088108?mt=1&app=music",
+            "resourcePath": "songs/1e/00/b9/11/9615e5c153"
+        },
+        "imagePath": "3P/0V/db/aa/Oys0PXK413.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "baby and mom duet",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3P/0V/db/aa/Oys0PXK413",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 9,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T07:21:16Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3P/0V/db/aa/Oys0PXK413_master.m4a",
+            "video": "wurrlies/3P/0V/db/aa/Oys0PXK413_video.mp4",
+            "vocal": "wurrlies/3P/0V/db/aa/Oys0PXK413_vocal.m4a"
+        }
+    }, {
+        "id": 97124,
+        "createdAt": 1486451147000,
+        "class": "wurrly",
+        "user": {
+            "id": 586783,
+            "class": "user",
+            "username": "stephchris061810",
+            "fullName": "stephchris061810",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3985,
+            "createdAt": 1481666816000,
+            "title": "Do You Want To Build A Snowman",
+            "artist": {
+                "id": 1774,
+                "name": "Made Famous By Frozen"
+            },
+            "imagePath": "4c/e7/7d/b2/29b1a24121.jpg",
+            "available": true,
+            "video": false,
+            "duration": 94064,
+            "hasChords": false,
+            "wurrlyCount": 567,
+            "genres": ["Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id728880398?mt=1&app=music",
+            "spotifyId": "2yi7HZrBOC4bMUSTcs4VK6",
+            "resourcePath": "songs/b2/bd/c1/8c/198b6adb3a"
+        },
+        "imagePath": "nW/4l/dP/bN/5aSEP7qKlg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nW/4l/dP/bN/5aSEP7qKlg",
+        "statistics": {
+            "comments": 1,
+            "likes": 1,
+            "plays": 7,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T07:05:47Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nW/4l/dP/bN/5aSEP7qKlg_master.m4a",
+            "video": "wurrlies/nW/4l/dP/bN/5aSEP7qKlg_video.mp4",
+            "vocal": "wurrlies/nW/4l/dP/bN/5aSEP7qKlg_vocal.m4a"
+        }
+    }, {
+        "id": 97123,
+        "createdAt": 1486449569000,
+        "class": "wurrly",
+        "user": {
+            "id": 494416,
+            "class": "user",
+            "username": "john-keller",
+            "fullName": "John Keller",
+            "avatarPath": "8a/f8/1e/79/2c7cd122bb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 226,
+                "following": 466,
+                "likes": 917,
+                "wurrlies": 263
+            }
+        },
+        "song": {
+            "id": 3959,
+            "createdAt": 1479509082000,
+            "title": "I Want To Hold Your Hand",
+            "artist": {
+                "id": 1754,
+                "name": "Made Famous By The Beatles"
+            },
+            "imagePath": "ae/4b/48/ec/6a24b934c8.jpg",
+            "available": true,
+            "video": false,
+            "duration": 99567,
+            "hasChords": false,
+            "wurrlyCount": 58,
+            "genres": ["Rock", "Love Songs", "Classics"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id779094748?mt=1&app=music",
+            "resourcePath": "songs/3d/72/a5/65/359d3a7c26"
+        },
+        "imagePath": "3w/eo/Lq/yQ/56u5vqX4Jg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "hand",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3w/eo/Lq/yQ/56u5vqX4Jg",
+        "statistics": {
+            "comments": 2,
+            "likes": 4,
+            "plays": 6,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T06:39:29Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3w/eo/Lq/yQ/56u5vqX4Jg_master.m4a",
+            "video": "wurrlies/3w/eo/Lq/yQ/56u5vqX4Jg_video.mp4",
+            "vocal": "wurrlies/3w/eo/Lq/yQ/56u5vqX4Jg_vocal.m4a"
+        }
+    }, {
+        "id": 97122,
+        "createdAt": 1486448294000,
+        "class": "wurrly",
+        "user": {
+            "id": 456867,
+            "class": "user",
+            "username": "bret-berntson",
+            "fullName": "Bret Berntson",
+            "avatarPath": "8b/fd/db/0c/1611d1a7b9.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 2,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3914,
+            "createdAt": 1477431009000,
+            "title": "Cups",
+            "artist": {
+                "id": 1717,
+                "name": "Anna Kendrick"
+            },
+            "imagePath": "80/4e/f6/9b/e958984429.jpg",
+            "available": true,
+            "video": false,
+            "duration": 66641,
+            "hasChords": false,
+            "wurrlyCount": 2028,
+            "genres": ["Featured", "Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id584972044?mt=1&app=music",
+            "spotifyId": "2sCl0FFOzZSmYZs90zOpd1",
+            "resourcePath": "songs/ce/28/d4/12/d798545266"
+        },
+        "imagePath": "nR/N0/dK/bB/54c4Ar5ern.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nR/N0/dK/bB/54c4Ar5ern",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 4,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T06:18:14Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nR/N0/dK/bB/54c4Ar5ern_master.m4a",
+            "video": "wurrlies/nR/N0/dK/bB/54c4Ar5ern_video.mp4",
+            "vocal": "wurrlies/nR/N0/dK/bB/54c4Ar5ern_vocal.m4a"
+        }
+    }, {
+        "id": 97120,
+        "createdAt": 1486447897000,
+        "class": "wurrly",
+        "user": {
+            "id": 600941,
+            "class": "user",
+            "username": "vickie-woodward",
+            "fullName": "Vickie Woodward",
+            "avatarPath": "Db/XL/xR/Z6/m9sp4VBBxn.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 7,
+                "following": 24,
+                "likes": 35,
+                "wurrlies": 9
+            }
+        },
+        "song": {
+            "id": 3936,
+            "createdAt": 1478305296000,
+            "title": "How Do I Live",
+            "artist": {
+                "id": 1732,
+                "name": "Leann Rimes"
+            },
+            "imagePath": "2d/7f/8b/25/d16d1535ec.jpg",
+            "available": true,
+            "video": false,
+            "duration": 102585,
+            "hasChords": false,
+            "wurrlyCount": 386,
+            "genres": ["Love Songs", "Country"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id79590476?mt=1&app=music",
+            "resourcePath": "songs/2a/e7/3e/2a/91362633cd"
+        },
+        "imagePath": "nm/yK/q9/Qj/oyc4Gy0NGn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "  i tried lol",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nm/yK/q9/Qj/oyc4Gy0NGn",
+        "statistics": {
+            "comments": 0,
+            "likes": 2,
+            "plays": 9,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T06:11:37Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nm/yK/q9/Qj/oyc4Gy0NGn_master.m4a",
+            "video": "wurrlies/nm/yK/q9/Qj/oyc4Gy0NGn_video.mp4",
+            "vocal": "wurrlies/nm/yK/q9/Qj/oyc4Gy0NGn_vocal.m4a"
+        }
+    }, {
+        "id": 97118,
+        "createdAt": 1486446907000,
+        "class": "wurrly",
+        "user": {
+            "id": 596712,
+            "class": "user",
+            "username": "leesiatrailers97",
+            "fullName": "leesiatrailers97",
+            "avatarPath": "5R/vP/Kf/jK/G71eFMlkxo.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 2,
+                "following": 4,
+                "likes": 1,
+                "wurrlies": 9
+            }
+        },
+        "song": {
+            "id": 3726,
+            "createdAt": 1471912919000,
+            "title": "Pompeii",
+            "artist": {
+                "id": 1588,
+                "name": " Bastille"
+            },
+            "imagePath": "1e/df/3f/d4/18d4b785c2.jpg",
+            "available": true,
+            "video": false,
+            "duration": 90464,
+            "hasChords": false,
+            "wurrlyCount": 657,
+            "genres": ["Pop", "Rock", "Alternative"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id672945258?mt=1&app=music",
+            "resourcePath": "songs/4d/93/2e/dd/98f9c19274"
+        },
+        "imagePath": "3z/qJ/Go/j9/xbuljqPrxD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "yasss",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3z/qJ/Go/j9/xbuljqPrxD",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:55:07Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3z/qJ/Go/j9/xbuljqPrxD_master.m4a",
+            "video": "wurrlies/3z/qJ/Go/j9/xbuljqPrxD_video.mp4",
+            "vocal": "wurrlies/3z/qJ/Go/j9/xbuljqPrxD_vocal.m4a"
+        }
+    }, {
+        "id": 97117,
+        "createdAt": 1486446827000,
+        "class": "wurrly",
+        "user": {
+            "id": 586783,
+            "class": "user",
+            "username": "stephchris061810",
+            "fullName": "stephchris061810",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3823,
+            "createdAt": 1474131287000,
+            "title": "Complicated",
+            "artist": {
+                "id": 1659,
+                "name": "Avril Lavigne"
+            },
+            "imagePath": "b9/63/7f/ca/d65ff99b39.jpg",
+            "available": true,
+            "video": false,
+            "duration": 84172,
+            "hasChords": false,
+            "wurrlyCount": 1240,
+            "genres": ["Pop", "Rock", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id315025823?mt=1&app=music",
+            "spotifyId": "5xEM5hIgJ1jjgcEBfpkt2F",
+            "resourcePath": "songs/63/55/34/61/fc91f01ecc"
+        },
+        "imagePath": "lD/17/wW/MJ/XqjspNqLvn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "mom and son duet",
+        "collaborators": [],
+        "resourcePath": "wurrlies/lD/17/wW/MJ/XqjspNqLvn",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 3,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:53:47Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/lD/17/wW/MJ/XqjspNqLvn_master.m4a",
+            "video": "wurrlies/lD/17/wW/MJ/XqjspNqLvn_video.mp4",
+            "vocal": "wurrlies/lD/17/wW/MJ/XqjspNqLvn_vocal.m4a"
+        }
+    }, {
+        "id": 97116,
+        "createdAt": 1486446387000,
+        "class": "wurrly",
+        "user": {
+            "id": 596712,
+            "class": "user",
+            "username": "leesiatrailers97",
+            "fullName": "leesiatrailers97",
+            "avatarPath": "5R/vP/Kf/jK/G71eFMlkxo.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 2,
+                "following": 4,
+                "likes": 1,
+                "wurrlies": 9
+            }
+        },
+        "song": {
+            "id": 4010,
+            "createdAt": 1484694167000,
+            "title": "I Wanna Dance With Somebody (Who Loves Me)",
+            "artist": {
+                "id": 1797,
+                "name": "Made Famous By Whitney Houston"
+            },
+            "imagePath": "14/d7/17/5e/491bf72eec.jpg",
+            "available": true,
+            "video": false,
+            "duration": 74559,
+            "hasChords": false,
+            "wurrlyCount": 61,
+            "genres": ["Featured", "Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id840431935?mt=1&app=music",
+            "resourcePath": "songs/e4/7d/b4/d0/e5941d8a8e"
+        },
+        "imagePath": "3G/KB/dr/MZ/RYI6b5NMj3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "yass queen",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3G/KB/dr/MZ/RYI6b5NMj3",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:46:27Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3G/KB/dr/MZ/RYI6b5NMj3_master.m4a",
+            "video": "wurrlies/3G/KB/dr/MZ/RYI6b5NMj3_video.mp4",
+            "vocal": "wurrlies/3G/KB/dr/MZ/RYI6b5NMj3_vocal.m4a"
+        }
+    }, {
+        "id": 97115,
+        "createdAt": 1486446320000,
+        "class": "wurrly",
+        "user": {
+            "id": 494416,
+            "class": "user",
+            "username": "john-keller",
+            "fullName": "John Keller",
+            "avatarPath": "8a/f8/1e/79/2c7cd122bb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 226,
+                "following": 466,
+                "likes": 917,
+                "wurrlies": 263
+            }
+        },
+        "song": {
+            "id": 4102,
+            "createdAt": 1486161796000,
+            "title": "And I Am Telling You I'm Not Going",
+            "artist": {
+                "id": 1872,
+                "name": "Made Famous By Jennifer Hudson"
+            },
+            "imagePath": "g4/r1/yI/vM/pIzZKd0OpA.jpg",
+            "available": true,
+            "video": false,
+            "duration": 65062,
+            "hasChords": false,
+            "wurrlyCount": 2,
+            "genres": ["Featured", "Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id464321064?mt=1&app=music",
+            "resourcePath": "songs/vD/dR/Ma/v2/OeGtmQLJVn"
+        },
+        "imagePath": "D2/7z/RM/k6/80iEJpkWk3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "put a little Hudson in it 😂",
+        "collaborators": [],
+        "resourcePath": "wurrlies/D2/7z/RM/k6/80iEJpkWk3",
+        "statistics": {
+            "comments": 2,
+            "likes": 2,
+            "plays": 5,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:45:20Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/D2/7z/RM/k6/80iEJpkWk3_master.m4a",
+            "video": "wurrlies/D2/7z/RM/k6/80iEJpkWk3_video.mp4",
+            "vocal": "wurrlies/D2/7z/RM/k6/80iEJpkWk3_vocal.m4a"
+        }
+    }, {
+        "id": 97114,
+        "createdAt": 1486446224000,
+        "class": "wurrly",
+        "user": {
+            "id": 451607,
+            "class": "user",
+            "username": "nuero",
+            "fullName": "nuero",
+            "avatarPath": "47/b3/60/5e/85918da589.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 133,
+                "following": 382,
+                "likes": 664,
+                "wurrlies": 146
+            }
+        },
+        "song": {
+            "id": 3858,
+            "createdAt": 1474662340000,
+            "title": "All Of Me",
+            "artist": {
+                "id": 1677,
+                "name": "John Legend"
+            },
+            "imagePath": "f1/c9/97/78/851fd4456f.jpg",
+            "available": true,
+            "video": false,
+            "duration": 99009,
+            "hasChords": false,
+            "wurrlyCount": 4939,
+            "genres": ["Pop", "Love Songs", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id679297849?mt=1&app=music",
+            "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
+            "resourcePath": "songs/c1/b4/dd/81/16e98d8ebd"
+        },
+        "imagePath": "go/56/p9/mX/06uvej5ZW3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "Not quite the same as Donald serenading Chandra... but is it worth a vote? you decide 🙏🙏🙏🙏🙏",
+        "collaborators": [],
+        "resourcePath": "wurrlies/go/56/p9/mX/06uvej5ZW3",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 3,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:43:44Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/go/56/p9/mX/06uvej5ZW3_master.m4a",
+            "video": "wurrlies/go/56/p9/mX/06uvej5ZW3_video.mp4",
+            "vocal": "wurrlies/go/56/p9/mX/06uvej5ZW3_vocal.m4a"
+        }
+    }, {
+        "id": 97112,
+        "createdAt": 1486444159000,
+        "class": "wurrly",
+        "user": {
+            "id": 580637,
+            "class": "user",
+            "username": "andre-melo",
+            "fullName": "Andre Melo",
+            "avatarPath": "6b/50/d1/54/65c0838e20.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 3,
+                "likes": 3,
+                "wurrlies": 1
+            }
+        },
+        "song": {
+            "id": 3864,
+            "createdAt": 1475189527000,
+            "title": "Ain't No Sunshine",
+            "artist": {
+                "id": 1683,
+                "name": "Bill Withers"
+            },
+            "imagePath": "19/0b/76/75/08e83b930a.jpg",
+            "available": true,
+            "video": false,
+            "duration": 110155,
+            "hasChords": false,
+            "wurrlyCount": 423,
+            "genres": ["Classics", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id685716373?mt=1&app=music",
+            "spotifyId": "1k1Bqnv2R0uJXQN4u6LKYt",
+            "resourcePath": "songs/3f/51/8e/5b/7ac2c537a8"
+        },
+        "imagePath": "3G/KB/dG/mB/MkCGqExvl3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "Aint no sunshine",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3G/KB/dG/mB/MkCGqExvl3",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:09:19Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3G/KB/dG/mB/MkCGqExvl3_master.m4a",
+            "video": "wurrlies/3G/KB/dG/mB/MkCGqExvl3_video.mp4",
+            "vocal": "wurrlies/3G/KB/dG/mB/MkCGqExvl3_vocal.m4a"
+        }
+    }, {
+        "id": 97111,
+        "createdAt": 1486444034000,
+        "class": "wurrly",
+        "user": {
+            "id": 594927,
+            "class": "user",
+            "username": "carl-rosen",
+            "fullName": "Carl Rosen",
+            "avatarPath": "n5/6K/QP/l5/eQFONep61g.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 2,
+                "following": 3,
+                "likes": 16,
+                "wurrlies": 7
+            }
+        },
+        "song": {
+            "id": 3925,
+            "createdAt": 1477955554000,
+            "title": "Hava Nagila",
+            "artist": {
+                "id": 1726,
+                "name": "Classic"
+            },
+            "imagePath": "55/a9/ac/86/d5c5768422.jpg",
+            "available": true,
+            "video": false,
+            "duration": 57562,
+            "hasChords": false,
+            "wurrlyCount": 11,
+            "genres": ["Holiday"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1053715963?mt=1&app=music",
+            "resourcePath": "songs/82/50/26/4f/453bf4a09a"
+        },
+        "imagePath": "n6/N0/Xj/La/dKip4QxYvn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "mozel tov",
+        "collaborators": [],
+        "resourcePath": "wurrlies/n6/N0/Xj/La/dKip4QxYvn",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:07:14Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/n6/N0/Xj/La/dKip4QxYvn_master.m4a",
+            "video": "wurrlies/n6/N0/Xj/La/dKip4QxYvn_video.mp4",
+            "vocal": "wurrlies/n6/N0/Xj/La/dKip4QxYvn_vocal.m4a"
+        }
+    }, {
+        "id": 97110,
+        "createdAt": 1486443761000,
+        "class": "wurrly",
+        "user": {
+            "id": 592347,
+            "class": "user",
+            "username": "tuckerdux",
+            "fullName": "Tanya Duxbury Metcalfe",
+            "avatarPath": "24/aV/Jt/OX/GRrLSbqXoq.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 9,
+                "following": 11,
+                "likes": 13,
+                "wurrlies": 11
+            }
+        },
+        "song": {
+            "id": 3790,
+            "createdAt": 1473790263000,
+            "title": "Un-Break My Heart",
+            "artist": {
+                "id": 1635,
+                "name": "Toni Braxton"
+            },
+            "imagePath": "75/2e/e5/c6/a6ca1bfcca.png",
+            "available": true,
+            "video": true,
+            "duration": 83127,
+            "hasChords": false,
+            "wurrlyCount": 608,
+            "genres": ["Lip Sync Battles", "Hip Hop", "Love Songs", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id302986599?mt=1&app=music",
+            "spotifyId": "1wyNvV8uXr35T8ChEypf8n",
+            "resourcePath": "songs/af/b3/76/1e/38e962122c"
+        },
+        "imagePath": "3G/KB/dG/rl/boTPQ42de3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "vote !!!... right back at ya John... lol",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3G/KB/dG/rl/boTPQ42de3",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T05:02:41Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3G/KB/dG/rl/boTPQ42de3_master.m4a",
+            "video": "wurrlies/3G/KB/dG/rl/boTPQ42de3_video.mp4",
+            "vocal": "wurrlies/3G/KB/dG/rl/boTPQ42de3_vocal.m4a"
+        }
+    }, {
+        "id": 97109,
+        "createdAt": 1486443257000,
+        "class": "wurrly",
+        "user": {
+            "id": 594927,
+            "class": "user",
+            "username": "carl-rosen",
+            "fullName": "Carl Rosen",
+            "avatarPath": "n5/6K/QP/l5/eQFONep61g.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 2,
+                "following": 3,
+                "likes": 16,
+                "wurrlies": 7
+            }
+        },
+        "song": {
+            "id": 4010,
+            "createdAt": 1484694167000,
+            "title": "I Wanna Dance With Somebody (Who Loves Me)",
+            "artist": {
+                "id": 1797,
+                "name": "Made Famous By Whitney Houston"
+            },
+            "imagePath": "14/d7/17/5e/491bf72eec.jpg",
+            "available": true,
+            "video": false,
+            "duration": 74559,
+            "hasChords": false,
+            "wurrlyCount": 61,
+            "genres": ["Featured", "Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id840431935?mt=1&app=music",
+            "resourcePath": "songs/e4/7d/b4/d0/e5941d8a8e"
+        },
+        "imagePath": "WD/ly/Vl/78/rxXsky5Ra3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "love me ",
+        "collaborators": [],
+        "resourcePath": "wurrlies/WD/ly/Vl/78/rxXsky5Ra3",
+        "statistics": {
+            "comments": 0,
+            "likes": 1,
+            "plays": 7,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:54:17Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/WD/ly/Vl/78/rxXsky5Ra3_master.m4a",
+            "video": "wurrlies/WD/ly/Vl/78/rxXsky5Ra3_video.mp4",
+            "vocal": "wurrlies/WD/ly/Vl/78/rxXsky5Ra3_vocal.m4a"
+        }
+    }, {
+        "id": 97108,
+        "createdAt": 1486443233000,
+        "class": "wurrly",
+        "user": {
+            "id": 451607,
+            "class": "user",
+            "username": "nuero",
+            "fullName": "nuero",
+            "avatarPath": "47/b3/60/5e/85918da589.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 133,
+                "following": 382,
+                "likes": 664,
+                "wurrlies": 146
+            }
+        },
+        "song": {
+            "id": 3688,
+            "createdAt": 1471438934000,
+            "title": "Harder To Breathe",
+            "artist": {
+                "id": 1522,
+                "name": "Maroon 5"
+            },
+            "imagePath": "31/d2/73/e1/f04ba2da36.jpg",
+            "available": true,
+            "video": false,
+            "duration": 63970,
+            "hasChords": false,
+            "wurrlyCount": 160,
+            "genres": ["Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id902147879?mt=1&app=music",
+            "resourcePath": "songs/ae/85/18/c2/516da49854"
+        },
+        "imagePath": "nB/wJ/dG/7R/Z5u769r6Yg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "Its getting harder and harder to breath... without your votes 😏🙏🙏🙏🙏🙏",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nB/wJ/dG/7R/Z5u769r6Yg",
+        "statistics": {
+            "comments": 11,
+            "likes": 3,
+            "plays": 7,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:53:53Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nB/wJ/dG/7R/Z5u769r6Yg_master.m4a",
+            "video": "wurrlies/nB/wJ/dG/7R/Z5u769r6Yg_video.mp4",
+            "vocal": "wurrlies/nB/wJ/dG/7R/Z5u769r6Yg_vocal.m4a"
+        }
+    }, {
+        "id": 97106,
+        "createdAt": 1486442205000,
+        "class": "wurrly",
+        "user": {
+            "id": 483989,
+            "class": "user",
+            "username": "dana-marie-mahappy",
+            "fullName": "Dana Marie Mahappy",
+            "avatarPath": "8b/1e/f1/a6/28f6958cbb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 260,
+                "following": 61,
+                "likes": 103,
+                "wurrlies": 308
+            }
+        },
+        "song": {
+            "id": 3752,
+            "createdAt": 1473195225000,
+            "title": "I Want To Know What Love Is",
+            "artist": {
+                "id": 1608,
+                "name": "Foreigner"
+            },
+            "imagePath": "95/ce/dd/30/b880255028.jpg",
+            "available": true,
+            "video": false,
+            "duration": 88955,
+            "hasChords": false,
+            "wurrlyCount": 495,
+            "genres": ["Rock", "Love Songs", "Classics", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id284531789?mt=1&app=music",
+            "spotifyId": "1JLn8RhQzHz3qDqsChcmBl",
+            "resourcePath": "songs/8c/b6/eb/66/2096ab636f"
+        },
+        "imagePath": "gN/Pz/dR/Mw/ZKcmPOZpX3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/gN/Pz/dR/Mw/ZKcmPOZpX3",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 2,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:36:45Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/gN/Pz/dR/Mw/ZKcmPOZpX3_master.m4a",
+            "video": "wurrlies/gN/Pz/dR/Mw/ZKcmPOZpX3_video.mp4",
+            "vocal": "wurrlies/gN/Pz/dR/Mw/ZKcmPOZpX3_vocal.m4a"
+        }
+    }, {
+        "id": 97105,
+        "createdAt": 1486442082000,
+        "class": "wurrly",
+        "user": {
+            "id": 468656,
+            "class": "user",
+            "username": "nicole-taylor-perry",
+            "fullName": "Nicole Taylor Perry",
+            "avatarPath": "4a/24/cc/d2/341de38d9e.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 1,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 4
+            }
+        },
+        "song": {
+            "id": 3776,
+            "createdAt": 1473462605000,
+            "title": "We Got The Beat",
+            "artist": {
+                "id": 1622,
+                "name": "The Go-Go's"
+            },
+            "imagePath": "74/79/f0/af/948ef82e15.jpg",
+            "available": true,
+            "video": false,
+            "duration": 89350,
+            "hasChords": false,
+            "wurrlyCount": 52,
+            "genres": ["Pop", "Classics"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1073179622?mt=1&app=music",
+            "resourcePath": "songs/8f/9e/94/5f/f98db63b97"
+        },
+        "imagePath": "gp/5N/ok/mj/RRUBmzKYOD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/gp/5N/ok/mj/RRUBmzKYOD",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:34:42Z",
+        "dimensions": {
+            "width": 640,
+            "height": 384
+        },
+        "assets": {
+            "master": "wurrlies/gp/5N/ok/mj/RRUBmzKYOD_master.m4a",
+            "video": "wurrlies/gp/5N/ok/mj/RRUBmzKYOD_video.mp4",
+            "vocal": "wurrlies/gp/5N/ok/mj/RRUBmzKYOD_vocal.m4a"
+        }
+    }, {
+        "id": 97104,
+        "createdAt": 1486441680000,
+        "class": "wurrly",
+        "user": {
+            "id": 483989,
+            "class": "user",
+            "username": "dana-marie-mahappy",
+            "fullName": "Dana Marie Mahappy",
+            "avatarPath": "8b/1e/f1/a6/28f6958cbb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 260,
+                "following": 61,
+                "likes": 103,
+                "wurrlies": 308
+            }
+        },
+        "song": {
+            "id": 4102,
+            "createdAt": 1486161796000,
+            "title": "And I Am Telling You I'm Not Going",
+            "artist": {
+                "id": 1872,
+                "name": "Made Famous By Jennifer Hudson"
+            },
+            "imagePath": "g4/r1/yI/vM/pIzZKd0OpA.jpg",
+            "available": true,
+            "video": false,
+            "duration": 65062,
+            "hasChords": false,
+            "wurrlyCount": 2,
+            "genres": ["Featured", "Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id464321064?mt=1&app=music",
+            "resourcePath": "songs/vD/dR/Ma/v2/OeGtmQLJVn"
+        },
+        "imagePath": "DX/Xq/dQ/Ga/r0IqK0P0zD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "i was actually singing lol ",
+        "collaborators": [],
+        "resourcePath": "wurrlies/DX/Xq/dQ/Ga/r0IqK0P0zD",
+        "statistics": {
+            "comments": 9,
+            "likes": 1,
+            "plays": 7,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:28:00Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/DX/Xq/dQ/Ga/r0IqK0P0zD_master.m4a",
+            "video": "wurrlies/DX/Xq/dQ/Ga/r0IqK0P0zD_video.mp4",
+            "vocal": "wurrlies/DX/Xq/dQ/Ga/r0IqK0P0zD_vocal.m4a"
+        }
+    }, {
+        "id": 97103,
+        "createdAt": 1486441603000,
+        "class": "wurrly",
+        "user": {
+            "id": 494416,
+            "class": "user",
+            "username": "john-keller",
+            "fullName": "John Keller",
+            "avatarPath": "8a/f8/1e/79/2c7cd122bb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 226,
+                "following": 466,
+                "likes": 917,
+                "wurrlies": 263
+            }
+        },
+        "song": {
+            "id": 3947,
+            "createdAt": 1479154445000,
+            "title": "Renegades",
+            "artist": {
+                "id": 1742,
+                "name": "X Ambassadors"
+            },
+            "imagePath": "46/a9/96/91/ba8bfc3aa7.jpg",
+            "available": true,
+            "video": false,
+            "duration": 64063,
+            "hasChords": false,
+            "wurrlyCount": 62,
+            "genres": ["Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id988867890?mt=1&app=music",
+            "resourcePath": "songs/1f/51/56/df/e08bc45194"
+        },
+        "imagePath": "3v/op/yE/mp/1NU0WZPqZn.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "run away ",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3v/op/yE/mp/1NU0WZPqZn",
+        "statistics": {
+            "comments": 0,
+            "likes": 2,
+            "plays": 4,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:26:43Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3v/op/yE/mp/1NU0WZPqZn_master.m4a",
+            "video": "wurrlies/3v/op/yE/mp/1NU0WZPqZn_video.mp4",
+            "vocal": "wurrlies/3v/op/yE/mp/1NU0WZPqZn_vocal.m4a"
+        }
+    }, {
+        "id": 97101,
+        "createdAt": 1486441181000,
+        "class": "wurrly",
+        "user": {
+            "id": 602793,
+            "class": "user",
+            "username": "johnnrod97",
+            "fullName": "johnnrod97",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 2,
+                "wurrlies": 6
+            }
+        },
+        "song": {
+            "id": 3956,
+            "createdAt": 1479428590000,
+            "title": "Whoomp! (There It Is)",
+            "artist": {
+                "id": 1749,
+                "name": "Made Famous By Tag Team"
+            },
+            "imagePath": "6b/b7/5e/7c/dfdf365e56.jpg",
+            "available": true,
+            "video": false,
+            "duration": 90302,
+            "hasChords": false,
+            "wurrlyCount": 48,
+            "genres": ["Hip Hop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id92300208?mt=1&app=music",
+            "resourcePath": "songs/c0/15/58/1b/d0c3ebf11c"
+        },
+        "imagePath": "D1/7w/W4/Lz/b4f6X50r8n.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "j",
+        "collaborators": [],
+        "resourcePath": "wurrlies/D1/7w/W4/Lz/b4f6X50r8n",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:19:41Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/D1/7w/W4/Lz/b4f6X50r8n_master.m4a",
+            "video": "wurrlies/D1/7w/W4/Lz/b4f6X50r8n_video.mp4",
+            "vocal": "wurrlies/D1/7w/W4/Lz/b4f6X50r8n_vocal.m4a"
+        }
+    }, {
+        "id": 97099,
+        "createdAt": 1486440892000,
+        "class": "wurrly",
+        "user": {
+            "id": 601930,
+            "class": "user",
+            "username": "steph-marie-velasquez",
+            "fullName": "Steph Marie Velasquez",
+            "avatarPath": "gy/JO/Zx/x9/EKhjXq15mD.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3810,
+            "createdAt": 1473890846000,
+            "title": "If It Makes You Happy",
+            "artist": {
+                "id": 1646,
+                "name": "Sheryl Crow"
+            },
+            "imagePath": "d7/ba/c0/4d/484b83e392.jpg",
+            "available": true,
+            "video": false,
+            "duration": 91231,
+            "hasChords": false,
+            "wurrlyCount": 227,
+            "genres": ["Pop", "Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id7581250?mt=1&app=music",
+            "resourcePath": "songs/40/b3/63/8a/18cbf762a8"
+        },
+        "imagePath": "3J/NW/dR/4r/KNHMmBdd63.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3J/NW/dR/4r/KNHMmBdd63",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:14:52Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3J/NW/dR/4r/KNHMmBdd63_master.m4a",
+            "video": "wurrlies/3J/NW/dR/4r/KNHMmBdd63_video.mp4",
+            "vocal": "wurrlies/3J/NW/dR/4r/KNHMmBdd63_vocal.m4a"
+        }
+    }, {
+        "id": 97097,
+        "createdAt": 1486440728000,
+        "class": "wurrly",
+        "user": {
+            "id": 603567,
+            "class": "user",
+            "username": "lucaguarducci",
+            "fullName": "lucaguarducci",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 1
+            }
+        },
+        "song": {
+            "id": 3829,
+            "createdAt": 1474136785000,
+            "title": "It's Tricky",
+            "artist": {
+                "id": 1662,
+                "name": "Run DMC"
+            },
+            "imagePath": "2e/d8/54/54/124bbbe1a4.jpg",
+            "available": true,
+            "video": false,
+            "duration": 95550,
+            "hasChords": false,
+            "wurrlyCount": 530,
+            "genres": ["Hip Hop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id261573299?mt=1&app=music",
+            "resourcePath": "songs/f5/f0/18/5d/8c43fe717d"
+        },
+        "imagePath": "73/zq/JG/EV/oZRTy1QRZD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "luca is tricky",
+        "collaborators": [],
+        "resourcePath": "wurrlies/73/zq/JG/EV/oZRTy1QRZD",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 6,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:12:08Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/73/zq/JG/EV/oZRTy1QRZD_master.m4a",
+            "video": "wurrlies/73/zq/JG/EV/oZRTy1QRZD_video.mp4",
+            "vocal": "wurrlies/73/zq/JG/EV/oZRTy1QRZD_vocal.m4a"
+        }
+    }, {
+        "id": 97096,
+        "createdAt": 1486440720000,
+        "class": "wurrly",
+        "user": {
+            "id": 494416,
+            "class": "user",
+            "username": "john-keller",
+            "fullName": "John Keller",
+            "avatarPath": "8a/f8/1e/79/2c7cd122bb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 226,
+                "following": 466,
+                "likes": 917,
+                "wurrlies": 263
+            }
+        },
+        "song": {
+            "id": 3790,
+            "createdAt": 1473790263000,
+            "title": "Un-Break My Heart",
+            "artist": {
+                "id": 1635,
+                "name": "Toni Braxton"
+            },
+            "imagePath": "75/2e/e5/c6/a6ca1bfcca.png",
+            "available": true,
+            "video": true,
+            "duration": 83127,
+            "hasChords": false,
+            "wurrlyCount": 608,
+            "genres": ["Lip Sync Battles", "Hip Hop", "Love Songs", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id302986599?mt=1&app=music",
+            "spotifyId": "1wyNvV8uXr35T8ChEypf8n",
+            "resourcePath": "songs/af/b3/76/1e/38e962122c"
+        },
+        "imagePath": "3J/NW/dR/Kr/9qt7bZxk73.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "still going lol",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3J/NW/dR/Kr/9qt7bZxk73",
+        "statistics": {
+            "comments": 0,
+            "likes": 2,
+            "plays": 7,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:12:00Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3J/NW/dR/Kr/9qt7bZxk73_master.m4a",
+            "video": "wurrlies/3J/NW/dR/Kr/9qt7bZxk73_video.mp4",
+            "vocal": "wurrlies/3J/NW/dR/Kr/9qt7bZxk73_vocal.m4a"
+        }
+    }, {
+        "id": 97095,
+        "createdAt": 1486440676000,
+        "class": "wurrly",
+        "user": {
+            "id": 537350,
+            "class": "user",
+            "username": "mary-beth-garrison",
+            "fullName": "Mary-Beth Garrison",
+            "avatarPath": "f5/89/c6/80/c62288e02a.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 44,
+                "following": 13,
+                "likes": 40,
+                "wurrlies": 19
+            }
+        },
+        "song": {
+            "id": 4008,
+            "createdAt": 1484262928000,
+            "title": "You Oughta Know",
+            "artist": {
+                "id": 1795,
+                "name": "Made Famous By Alanis Morissette"
+            },
+            "imagePath": "94/11/28/3d/bc1aa54626.jpg",
+            "available": true,
+            "video": false,
+            "duration": 101122,
+            "hasChords": false,
+            "wurrlyCount": 52,
+            "genres": ["Featured", "Rock"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id1051426177?mt=1&app=music",
+            "resourcePath": "songs/19/ed/82/9e/1d89043784"
+        },
+        "imagePath": "3v/op/yE/Q2/zwiqr9lq8n.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "Anyone else despise folding laundry?",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3v/op/yE/Q2/zwiqr9lq8n",
+        "statistics": {
+            "comments": 3,
+            "likes": 4,
+            "plays": 10,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:11:16Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3v/op/yE/Q2/zwiqr9lq8n_master.m4a",
+            "video": "wurrlies/3v/op/yE/Q2/zwiqr9lq8n_video.mp4",
+            "vocal": "wurrlies/3v/op/yE/Q2/zwiqr9lq8n_vocal.m4a"
+        }
+    }, {
+        "id": 97094,
+        "createdAt": 1486440662000,
+        "class": "wurrly",
+        "user": {
+            "id": 483989,
+            "class": "user",
+            "username": "dana-marie-mahappy",
+            "fullName": "Dana Marie Mahappy",
+            "avatarPath": "8b/1e/f1/a6/28f6958cbb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 260,
+                "following": 61,
+                "likes": 103,
+                "wurrlies": 308
+            }
+        },
+        "song": {
+            "id": 3688,
+            "createdAt": 1471438934000,
+            "title": "Harder To Breathe",
+            "artist": {
+                "id": 1522,
+                "name": "Maroon 5"
+            },
+            "imagePath": "31/d2/73/e1/f04ba2da36.jpg",
+            "available": true,
+            "video": false,
+            "duration": 63970,
+            "hasChords": false,
+            "wurrlyCount": 160,
+            "genres": ["Pop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id902147879?mt=1&app=music",
+            "resourcePath": "songs/ae/85/18/c2/516da49854"
+        },
+        "imagePath": "38/vN/AL/kR/jNUAEb4e1g.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/38/vN/AL/kR/jNUAEb4e1g",
+        "statistics": {
+            "comments": 1,
+            "likes": 1,
+            "plays": 12,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:11:02Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/38/vN/AL/kR/jNUAEb4e1g_master.m4a",
+            "video": "wurrlies/38/vN/AL/kR/jNUAEb4e1g_video.mp4",
+            "vocal": "wurrlies/38/vN/AL/kR/jNUAEb4e1g_vocal.m4a"
+        }
+    }, {
+        "id": 97091,
+        "createdAt": 1486440176000,
+        "class": "wurrly",
+        "user": {
+            "id": 483989,
+            "class": "user",
+            "username": "dana-marie-mahappy",
+            "fullName": "Dana Marie Mahappy",
+            "avatarPath": "8b/1e/f1/a6/28f6958cbb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 260,
+                "following": 61,
+                "likes": 103,
+                "wurrlies": 308
+            }
+        },
+        "song": {
+            "id": 3829,
+            "createdAt": 1474136785000,
+            "title": "It's Tricky",
+            "artist": {
+                "id": 1662,
+                "name": "Run DMC"
+            },
+            "imagePath": "2e/d8/54/54/124bbbe1a4.jpg",
+            "available": true,
+            "video": false,
+            "duration": 95550,
+            "hasChords": false,
+            "wurrlyCount": 530,
+            "genres": ["Hip Hop"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id261573299?mt=1&app=music",
+            "resourcePath": "songs/f5/f0/18/5d/8c43fe717d"
+        },
+        "imagePath": "DX/Xq/dQ/vK/75HvP9eOrD.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/DX/Xq/dQ/vK/75HvP9eOrD",
+        "statistics": {
+            "comments": 2,
+            "likes": 0,
+            "plays": 2,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T04:02:56Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/DX/Xq/dQ/vK/75HvP9eOrD_master.m4a",
+            "video": "wurrlies/DX/Xq/dQ/vK/75HvP9eOrD_video.mp4",
+            "vocal": "wurrlies/DX/Xq/dQ/vK/75HvP9eOrD_vocal.m4a"
+        }
+    }, {
+        "id": 97089,
+        "createdAt": 1486439005000,
+        "class": "wurrly",
+        "user": {
+            "id": 601930,
+            "class": "user",
+            "username": "steph-marie-velasquez",
+            "fullName": "Steph Marie Velasquez",
+            "avatarPath": "gy/JO/Zx/x9/EKhjXq15mD.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 0,
+                "wurrlies": 3
+            }
+        },
+        "song": {
+            "id": 3944,
+            "createdAt": 1478904982000,
+            "title": "Breathe",
+            "artist": {
+                "id": 1738,
+                "name": "Made Famous By Faith Hill"
+            },
+            "imagePath": "4d/ec/40/ca/2c5cbb5e4a.jpg",
+            "available": true,
+            "video": false,
+            "duration": 116030,
+            "hasChords": false,
+            "wurrlyCount": 89,
+            "genres": ["Country"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id264603410?mt=1&app=music",
+            "resourcePath": "songs/10/bc/de/d5/c69281eac9"
+        },
+        "imagePath": "nW/4l/dy/49/24fj8QOAlg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "im starting to have trouble breathing! lol,darn allergies!!",
+        "collaborators": [],
+        "resourcePath": "wurrlies/nW/4l/dy/49/24fj8QOAlg",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 1,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T03:43:25Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/nW/4l/dy/49/24fj8QOAlg_master.m4a",
+            "video": "wurrlies/nW/4l/dy/49/24fj8QOAlg_video.mp4",
+            "vocal": "wurrlies/nW/4l/dy/49/24fj8QOAlg_vocal.m4a"
+        }
+    }, {
+        "id": 97088,
+        "createdAt": 1486438993000,
+        "class": "wurrly",
+        "user": {
+            "id": 494416,
+            "class": "user",
+            "username": "john-keller",
+            "fullName": "John Keller",
+            "avatarPath": "8a/f8/1e/79/2c7cd122bb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 226,
+                "following": 466,
+                "likes": 917,
+                "wurrlies": 263
+            }
+        },
+        "song": {
+            "id": 3695,
+            "createdAt": 1471496923000,
+            "title": "Can You Feel The Love Tonight",
+            "artist": {
+                "id": 1561,
+                "name": "The Lion King"
+            },
+            "imagePath": "c2/be/50/8b/d59e94e5cb.jpg",
+            "available": true,
+            "video": false,
+            "duration": 0,
+            "hasChords": false,
+            "wurrlyCount": 907,
+            "genres": ["Pop", "Love Songs", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id156089582?mt=1&app=music",
+            "spotifyId": "5NjEHwWc2vb3fJAxM9lnEO",
+            "resourcePath": "songs/3a/a1/a9/9c/589fb657fb"
+        },
+        "imagePath": "n5/6K/zL/7G/GqI8WqV9qg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "hehehe #LSBSpotify",
+        "collaborators": [],
+        "resourcePath": "wurrlies/n5/6K/zL/7G/GqI8WqV9qg",
+        "statistics": {
+            "comments": 0,
+            "likes": 2,
+            "plays": 2,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T03:43:13Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/n5/6K/zL/7G/GqI8WqV9qg_master.m4a",
+            "video": "wurrlies/n5/6K/zL/7G/GqI8WqV9qg_video.mp4",
+            "vocal": "wurrlies/n5/6K/zL/7G/GqI8WqV9qg_vocal.m4a"
+        }
+    }, {
+        "id": 97086,
+        "createdAt": 1486438662000,
+        "class": "wurrly",
+        "user": {
+            "id": 494416,
+            "class": "user",
+            "username": "john-keller",
+            "fullName": "John Keller",
+            "avatarPath": "8a/f8/1e/79/2c7cd122bb.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 226,
+                "following": 466,
+                "likes": 917,
+                "wurrlies": 263
+            }
+        },
+        "song": {
+            "id": 3752,
+            "createdAt": 1473195225000,
+            "title": "I Want To Know What Love Is",
+            "artist": {
+                "id": 1608,
+                "name": "Foreigner"
+            },
+            "imagePath": "95/ce/dd/30/b880255028.jpg",
+            "available": true,
+            "video": false,
+            "duration": 88955,
+            "hasChords": false,
+            "wurrlyCount": 495,
+            "genres": ["Rock", "Love Songs", "Classics", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id284531789?mt=1&app=music",
+            "spotifyId": "1JLn8RhQzHz3qDqsChcmBl",
+            "resourcePath": "songs/8c/b6/eb/66/2096ab636f"
+        },
+        "imagePath": "g0/QP/GO/1Q/W9HPQ0OMED.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "show #LSBSpotify",
+        "collaborators": [],
+        "resourcePath": "wurrlies/g0/QP/GO/1Q/W9HPQ0OMED",
+        "statistics": {
+            "comments": 0,
+            "likes": 3,
+            "plays": 4,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T03:37:42Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/g0/QP/GO/1Q/W9HPQ0OMED_master.m4a",
+            "video": "wurrlies/g0/QP/GO/1Q/W9HPQ0OMED_video.mp4",
+            "vocal": "wurrlies/g0/QP/GO/1Q/W9HPQ0OMED_vocal.m4a"
+        }
+    }, {
+        "id": 97085,
+        "createdAt": 1486438396000,
+        "class": "wurrly",
+        "user": {
+            "id": 582336,
+            "class": "user",
+            "username": "cmcnichol",
+            "fullName": "cmcnichol",
+            "avatarPath": "4c/50/b8/36/e7e2bf69ca.png",
+            "featured": false,
+            "statistics": {
+                "followers": 2,
+                "following": 3,
+                "likes": 0,
+                "wurrlies": 18
+            }
+        },
+        "song": {
+            "id": 3949,
+            "createdAt": 1479330820000,
+            "title": "I'd Do Anything For Love (But I Won't Do That)",
+            "artist": {
+                "id": 1744,
+                "name": "Meat Loaf"
+            },
+            "imagePath": "b8/16/b2/86/dd37e45060.jpg",
+            "available": true,
+            "video": false,
+            "duration": 111595,
+            "hasChords": false,
+            "wurrlyCount": 110,
+            "genres": ["Rock", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id2063518?mt=1&app=music",
+            "spotifyId": "391CwgcBxvUHmEKda2b5In",
+            "resourcePath": "songs/e0/44/60/cc/6eef6d9d54"
+        },
+        "imagePath": "3J/NW/dr/kM/RRF4eEYpY3.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "",
+        "collaborators": [],
+        "resourcePath": "wurrlies/3J/NW/dr/kM/RRF4eEYpY3",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 2,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T03:33:16Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/3J/NW/dr/kM/RRF4eEYpY3_master.m4a",
+            "video": "wurrlies/3J/NW/dr/kM/RRF4eEYpY3_video.mp4",
+            "vocal": "wurrlies/3J/NW/dr/kM/RRF4eEYpY3_vocal.m4a"
+        }
+    }, {
+        "id": 97084,
+        "createdAt": 1486438075000,
+        "class": "wurrly",
+        "user": {
+            "id": 603478,
+            "class": "user",
+            "username": "robert-ahumada",
+            "fullName": "Robert Ahumada",
+            "avatarPath": "go/56/z0/LG/12HpqYwlN3.jpg",
+            "featured": false,
+            "statistics": {
+                "followers": 0,
+                "following": 1,
+                "likes": 4,
+                "wurrlies": 5
+            }
+        },
+        "song": {
+            "id": 3914,
+            "createdAt": 1477431009000,
+            "title": "Cups",
+            "artist": {
+                "id": 1717,
+                "name": "Anna Kendrick"
+            },
+            "imagePath": "80/4e/f6/9b/e958984429.jpg",
+            "available": true,
+            "video": false,
+            "duration": 66641,
+            "hasChords": false,
+            "wurrlyCount": 2028,
+            "genres": ["Featured", "Pop", "Sponsored"],
+            "products": [],
+            "iTunesLink": "https://geo.itunes.apple.com/us/album/id584972044?mt=1&app=music",
+            "spotifyId": "2sCl0FFOzZSmYZs90zOpd1",
+            "resourcePath": "songs/ce/28/d4/12/d798545266"
+        },
+        "imagePath": "Dk/zX/v7/vB/K1uQ8OAqjg.jpg",
+        "featured": false,
+        "locked": false,
+        "video": true,
+        "collaboration": false,
+        "score": 0.0,
+        "message": "i am so bad at this 😩",
+        "collaborators": [],
+        "resourcePath": "wurrlies/Dk/zX/v7/vB/K1uQ8OAqjg",
+        "statistics": {
+            "comments": 0,
+            "likes": 0,
+            "plays": 0,
+            "shares": 0
+        },
+        "creationDate": "2017-02-07T03:27:55Z",
+        "dimensions": {
+            "width": 480,
+            "height": 640
+        },
+        "assets": {
+            "master": "wurrlies/Dk/zX/v7/vB/K1uQ8OAqjg_master.m4a",
+            "video": "wurrlies/Dk/zX/v7/vB/K1uQ8OAqjg_video.mp4",
+            "vocal": "wurrlies/Dk/zX/v7/vB/K1uQ8OAqjg_vocal.m4a"
+        }
+    }]
+}
+
