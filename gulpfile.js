@@ -73,7 +73,7 @@ gulp.task('serve', ['build'], function() {
     port: 3131
   });
 
-  open('http://localhost:3000');
+  open('http://localhost:3131');
 
   gulp.watch('bower_components/**/*', ['lib']);
   gulp.watch(app.srcPath + '**/*.html', ['html']);
