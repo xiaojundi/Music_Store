@@ -26,6 +26,18 @@ angular.module('app').controller('mainCtrl', ['$http', '$scope', function($http,
 	$http.get('/data/wurrlies.json').then(function(resp) {
 		$scope.list = resp.data.items;
 	});
+
+	// function loadMore() {
+	// 	//loading more data 
+	// 	$scope.$broadcast('lazyLoadingFinished'); //notify the directive to finish the current loading 
+	// 	if (noMore) {
+	// 		$scope.$broadcast('allLoaded'); //all data loaded, remove all the touch events 
+	// 	}
+	// }
+	// //listen on the user touch event, which will be fired from the directive 
+	// $scope.$on('lazyLoading', function() {
+	// 	loadMore();
+	// });
 }]);
 'use strict';
 angular.module('app').directive('appFoot', [function() {
